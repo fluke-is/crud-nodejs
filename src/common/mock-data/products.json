@@ -1,0 +1,17 @@
+[
+    {
+        "id": "c01",
+        "name": "Long Sleeve Shirt",
+        "price": 199
+    },
+    {
+        "id": "c02",
+        "name": "T-Shirt",
+        "price": 250
+    },
+    {
+        "id": "c03",
+        "name": "pajamas",
+        "price": 500
+    }
+]
